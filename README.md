@@ -6,6 +6,13 @@
 ### **Introduction to Bioinformatics**
 Bioinformatics is an interdisciplinary field that combines biology, computer science, and mathematics to analyze and interpret biological data. It plays a crucial role in genomics, proteomics, and systems biology by utilizing computational techniques to process and understand vast amounts of biological information. Bioinformatics is essential in modern scientific research, helping in drug discovery, genetic engineering, and personalized medicine.
 
+### **About the Group**
+The group is named after Thomas Hunt Morgan, a pioneering geneticist known for his work on chromosome inheritance, which laid the foundation for modern genomics. His discoveries revolutionized our understanding of heredity and genetic linkage.
+
+This group consists of six dedicated students enrolled in a Bioinformatics course at the university. They have been assigned the task of exploring various programming languages, including Python, Bash, JavaScript, R, Rust, and Swift, to apply computational techniques in analyzing biological data. The group members have diverse research interests, ranging from system biology to metagenomics, reflecting the interdisciplinary nature of bioinformatics.
+
+The team is committed to leveraging computational tools and programming skills to solve biological problems, analyze genomic data, and contribute to advancements in the field of bioinformatics. With their combined expertise, they aim to develop innovative solutions for biological data analysis and visualization.
+
 ### **Contributors**
 
 #### **1. Abdulfatah Sani Garba**
