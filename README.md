@@ -16,36 +16,42 @@ The team is committed to leveraging computational tools and programming skills t
 ### **Contributors**
 
 #### **1. Abdulfatah Sani Garba**
+![Abdulfatah Sani Garba](images/abdulfatahSaniGraba.jpg)
 - **Email:** a.alsisimasar5356@gmail.com  
 - **Phone:** 07069502906  
 - **Area of Interest:** System Biology  
 - **Matric Number:** BASUG/UG/BMS/ANA/21/2959  
 
 #### **2. Sani Danladi Gidado**
+![Sani Danladi Gidado](images/saniDanladiGidado.jpg)
 - **Email:** sanidanladigidado@gmail.com  
 - **Phone:** 08038513353  
 - **Area of Interest:** Genomics  
 - **Matric Number:** BASUG/UG/BMS/ANA/21/0538  
 
 #### **3. Nana Firdausi Lawan**
+![Nana Firdausi Lawan](images/nanaFirdausiLawan.jpg)
 - **Email:** lawalfirdausi2000@gmail.com  
 - **Phone:** 07088644527  
 - **Area of Interest:** Data Visualization  
 - **Matric Number:** BASUG/UG/BMS/ANA/22/5212  
 
 #### **4. Fatima Muhammad Auwal**
+![Fatima Muhammad Auwal](images/fatimaMuhammadAwwal.jpg)
 - **Email:** fatimamuhammadauwal7295@gmail.com  
 - **Phone:** 08167247295  
 - **Area of Interest:** Proteomics  
 - **Matric Number:** BASUG/UG/BMS/ANA/21/2570  
 
 #### **5. Aliyu Lauwali**
+![Aliyu Lauwali](images/aliyuLauwali.jpg)
 - **Email:** aliyulaowali@gmail.com  
 - **Phone:** 08127953663  
 - **Area of Interest:** Structural Bioinformatics  
 - **Matric Number:** BASUG/UG/BMS/ANA/21/1126  
 
 #### **6. Awashu Abdurrasheed Aminu**
+![Awashu Abdurrasheed Aminu](images/awashuAbdurrashidMusa.jpg)
 - **Email:** awashuabulrasheedaminu@gmail.com  
 - **Phone:** 08163096711  
 - **Area of Interest:** Metagenomics  
